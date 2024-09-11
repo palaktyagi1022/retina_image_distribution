@@ -1,4 +1,4 @@
-#Diabetic Retinopathy Detection
+# Diabetic Retinopathy Detection
 
 This project aims to create an automated analysis system to detect the presence of diabetic retinopathy (DR) in high-resolution retina images. The system assigns a DR score ranging from 0 to 4 based on a provided scale.
 
